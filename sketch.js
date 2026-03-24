@@ -275,3 +275,5 @@ function drawStars() {
   }
   pop(); // Restore original translation
 }
+
+function touchStarted() { if (typeof mousePressed === 'function') { mousePressed(); } return false; }
