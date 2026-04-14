@@ -26,7 +26,7 @@ let starSpeed = 0.5;
 
 function preload() {
   // REPLACE THE LINK BELOW WITH YOUR IMAGE LINK
-  surpriseImg = loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Charlie_Kirk_cropped.jpg/440px-Charlie_Kirk_cropped.jpg');
+ // surpriseImg = loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Charlie_Kirk_cropped.jpg/440px-Charlie_Kirk_cropped.jpg');
 }
 
 function setup() {
